@@ -11,7 +11,7 @@ public class CountServlet extends HttpServlet {
 private int counter = 0;
 
 protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-    counter += 1;
+    counter ++;
     response.setContentType("text/html");
     PrintWriter out = response.getWriter();
     out.println("<h1>The count is " + counter + ".</h1>");
