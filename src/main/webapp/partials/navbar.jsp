@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Mateo
-  Date: 2/26/20
-  Time: 4:43 PM
-  To change this template use File | Settings | File Templates.
---%>
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
